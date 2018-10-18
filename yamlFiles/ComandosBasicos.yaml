@@ -1,0 +1,16 @@
+- methodDescription:
+    title: masterblasterblum
+    text_description: Método responsável por
+    parameters:
+    - seletorElemento
+    - opcaoTexto
+    ex: ComandosBasicos comBasico = new ComandosBasicos(driver);
+    return_description: Método não tem retorno.
+    return: void
+- methodDescription:
+    title: masterblasterblum
+    text_description: Método responsável por
+    parameters:
+    ex: ComandosBasicos comBasico = new ComandosBasicos(driver);
+    return_description: Método não tem retorno.
+    return: void

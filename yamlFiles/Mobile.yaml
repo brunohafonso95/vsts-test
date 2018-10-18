@@ -1,0 +1,13 @@
+- methodDescription:
+    title: masterblaster
+    text_description:
+    - Método responsável por fazer alguma coisa
+    - muito legal
+    parameters:
+    - String: teste1
+    - int: teste2
+    ex:
+    - WebDriver driver = new WebDriver();
+    - ComandosBasicos comBasico = new ComandosBasicos(driver);
+    return_description: Método não tem retorno.
+    return: void

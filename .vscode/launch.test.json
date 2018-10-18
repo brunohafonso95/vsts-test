@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "WebAutomation",
+                "projectName": "WebAutomation",
+                "workingDirectory": "c:\\Users\\lfelipea\\Desktop\\Projetos\\Adaptacao_Framework_Web",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "WebAutomation",
+                "projectName": "WebAutomation",
+                "workingDirectory": "c:\\Users\\lfelipea\\Desktop\\Projetos\\Adaptacao_Framework_Web",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
