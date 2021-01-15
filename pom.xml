@@ -48,7 +48,7 @@
 		<dependency>
 			<groupId>com.github.ozlerhakan</groupId>
 			<artifactId>poiji</artifactId>
-			<version>1.10</version>
+			<version>1.18.1</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.appium/java-client -->
 		<dependency>
